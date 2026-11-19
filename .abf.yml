@@ -1,3 +1,4 @@
 sources:
   abseil-cpp-20250512.1.tar.gz: e5ef75fd02460d814df12ee76d00765feaed6759
   protobuf-33.2.tar.gz: c8f1db7f84c70cfebc8cf6b04730895e3e1196e3
+  protobuf-36.2.tar.gz: 038b2f5052459e9525f7910d1cc938abc74c1811
